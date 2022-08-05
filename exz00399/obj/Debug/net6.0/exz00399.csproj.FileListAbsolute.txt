@@ -1,0 +1,15 @@
+D:\GB\cdiez\exz00399\bin\Debug\net6.0\exz00399.exe
+D:\GB\cdiez\exz00399\bin\Debug\net6.0\exz00399.deps.json
+D:\GB\cdiez\exz00399\bin\Debug\net6.0\exz00399.runtimeconfig.json
+D:\GB\cdiez\exz00399\bin\Debug\net6.0\exz00399.dll
+D:\GB\cdiez\exz00399\bin\Debug\net6.0\exz00399.pdb
+D:\GB\cdiez\exz00399\obj\Debug\net6.0\exz00399.csproj.AssemblyReference.cache
+D:\GB\cdiez\exz00399\obj\Debug\net6.0\exz00399.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\cdiez\exz00399\obj\Debug\net6.0\exz00399.AssemblyInfoInputs.cache
+D:\GB\cdiez\exz00399\obj\Debug\net6.0\exz00399.AssemblyInfo.cs
+D:\GB\cdiez\exz00399\obj\Debug\net6.0\exz00399.csproj.CoreCompileInputs.cache
+D:\GB\cdiez\exz00399\obj\Debug\net6.0\exz00399.dll
+D:\GB\cdiez\exz00399\obj\Debug\net6.0\refint\exz00399.dll
+D:\GB\cdiez\exz00399\obj\Debug\net6.0\exz00399.pdb
+D:\GB\cdiez\exz00399\obj\Debug\net6.0\exz00399.genruntimeconfig.cache
+D:\GB\cdiez\exz00399\obj\Debug\net6.0\ref\exz00399.dll
