@@ -1,0 +1,15 @@
+D:\GB\cdiez\ex00799\bin\Debug\net6.0\ex00799.exe
+D:\GB\cdiez\ex00799\bin\Debug\net6.0\ex00799.deps.json
+D:\GB\cdiez\ex00799\bin\Debug\net6.0\ex00799.runtimeconfig.json
+D:\GB\cdiez\ex00799\bin\Debug\net6.0\ex00799.dll
+D:\GB\cdiez\ex00799\bin\Debug\net6.0\ex00799.pdb
+D:\GB\cdiez\ex00799\obj\Debug\net6.0\ex00799.csproj.AssemblyReference.cache
+D:\GB\cdiez\ex00799\obj\Debug\net6.0\ex00799.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\cdiez\ex00799\obj\Debug\net6.0\ex00799.AssemblyInfoInputs.cache
+D:\GB\cdiez\ex00799\obj\Debug\net6.0\ex00799.AssemblyInfo.cs
+D:\GB\cdiez\ex00799\obj\Debug\net6.0\ex00799.csproj.CoreCompileInputs.cache
+D:\GB\cdiez\ex00799\obj\Debug\net6.0\ex00799.dll
+D:\GB\cdiez\ex00799\obj\Debug\net6.0\refint\ex00799.dll
+D:\GB\cdiez\ex00799\obj\Debug\net6.0\ex00799.pdb
+D:\GB\cdiez\ex00799\obj\Debug\net6.0\ex00799.genruntimeconfig.cache
+D:\GB\cdiez\ex00799\obj\Debug\net6.0\ref\ex00799.dll
