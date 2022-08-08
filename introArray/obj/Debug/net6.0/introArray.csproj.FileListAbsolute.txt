@@ -1,0 +1,15 @@
+D:\GB\cdiez\introArray\bin\Debug\net6.0\introArray.exe
+D:\GB\cdiez\introArray\bin\Debug\net6.0\introArray.deps.json
+D:\GB\cdiez\introArray\bin\Debug\net6.0\introArray.runtimeconfig.json
+D:\GB\cdiez\introArray\bin\Debug\net6.0\introArray.dll
+D:\GB\cdiez\introArray\bin\Debug\net6.0\introArray.pdb
+D:\GB\cdiez\introArray\obj\Debug\net6.0\introArray.csproj.AssemblyReference.cache
+D:\GB\cdiez\introArray\obj\Debug\net6.0\introArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\cdiez\introArray\obj\Debug\net6.0\introArray.AssemblyInfoInputs.cache
+D:\GB\cdiez\introArray\obj\Debug\net6.0\introArray.AssemblyInfo.cs
+D:\GB\cdiez\introArray\obj\Debug\net6.0\introArray.csproj.CoreCompileInputs.cache
+D:\GB\cdiez\introArray\obj\Debug\net6.0\introArray.dll
+D:\GB\cdiez\introArray\obj\Debug\net6.0\refint\introArray.dll
+D:\GB\cdiez\introArray\obj\Debug\net6.0\introArray.pdb
+D:\GB\cdiez\introArray\obj\Debug\net6.0\introArray.genruntimeconfig.cache
+D:\GB\cdiez\introArray\obj\Debug\net6.0\ref\introArray.dll
