@@ -1,0 +1,15 @@
+D:\GB\cdiez\lec002\obj\Debug\net6.0\lec002.csproj.AssemblyReference.cache
+D:\GB\cdiez\lec002\obj\Debug\net6.0\lec002.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\cdiez\lec002\obj\Debug\net6.0\lec002.AssemblyInfoInputs.cache
+D:\GB\cdiez\lec002\obj\Debug\net6.0\lec002.AssemblyInfo.cs
+D:\GB\cdiez\lec002\obj\Debug\net6.0\lec002.csproj.CoreCompileInputs.cache
+D:\GB\cdiez\lec002\bin\Debug\net6.0\lec002.exe
+D:\GB\cdiez\lec002\bin\Debug\net6.0\lec002.deps.json
+D:\GB\cdiez\lec002\bin\Debug\net6.0\lec002.runtimeconfig.json
+D:\GB\cdiez\lec002\bin\Debug\net6.0\lec002.dll
+D:\GB\cdiez\lec002\bin\Debug\net6.0\lec002.pdb
+D:\GB\cdiez\lec002\obj\Debug\net6.0\lec002.dll
+D:\GB\cdiez\lec002\obj\Debug\net6.0\refint\lec002.dll
+D:\GB\cdiez\lec002\obj\Debug\net6.0\lec002.pdb
+D:\GB\cdiez\lec002\obj\Debug\net6.0\lec002.genruntimeconfig.cache
+D:\GB\cdiez\lec002\obj\Debug\net6.0\ref\lec002.dll
