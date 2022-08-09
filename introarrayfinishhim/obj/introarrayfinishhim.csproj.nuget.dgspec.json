@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GB\\cdiez\\introarrayfinishhim\\introarrayfinishhim.csproj": {}
+  },
+  "projects": {
+    "D:\\GB\\cdiez\\introarrayfinishhim\\introarrayfinishhim.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GB\\cdiez\\introarrayfinishhim\\introarrayfinishhim.csproj",
+        "projectName": "introarrayfinishhim",
+        "projectPath": "D:\\GB\\cdiez\\introarrayfinishhim\\introarrayfinishhim.csproj",
+        "packagesPath": "C:\\Users\\y1001\\.nuget\\packages\\",
+        "outputPath": "D:\\GB\\cdiez\\introarrayfinishhim\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\y1001\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

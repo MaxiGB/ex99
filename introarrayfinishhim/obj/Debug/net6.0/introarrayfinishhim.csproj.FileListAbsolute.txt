@@ -1,0 +1,15 @@
+D:\GB\cdiez\introarrayfinishhim\obj\Debug\net6.0\introarrayfinishhim.csproj.AssemblyReference.cache
+D:\GB\cdiez\introarrayfinishhim\obj\Debug\net6.0\introarrayfinishhim.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\cdiez\introarrayfinishhim\obj\Debug\net6.0\introarrayfinishhim.AssemblyInfoInputs.cache
+D:\GB\cdiez\introarrayfinishhim\obj\Debug\net6.0\introarrayfinishhim.AssemblyInfo.cs
+D:\GB\cdiez\introarrayfinishhim\obj\Debug\net6.0\introarrayfinishhim.csproj.CoreCompileInputs.cache
+D:\GB\cdiez\introarrayfinishhim\bin\Debug\net6.0\introarrayfinishhim.exe
+D:\GB\cdiez\introarrayfinishhim\bin\Debug\net6.0\introarrayfinishhim.deps.json
+D:\GB\cdiez\introarrayfinishhim\bin\Debug\net6.0\introarrayfinishhim.runtimeconfig.json
+D:\GB\cdiez\introarrayfinishhim\bin\Debug\net6.0\introarrayfinishhim.dll
+D:\GB\cdiez\introarrayfinishhim\bin\Debug\net6.0\introarrayfinishhim.pdb
+D:\GB\cdiez\introarrayfinishhim\obj\Debug\net6.0\introarrayfinishhim.dll
+D:\GB\cdiez\introarrayfinishhim\obj\Debug\net6.0\refint\introarrayfinishhim.dll
+D:\GB\cdiez\introarrayfinishhim\obj\Debug\net6.0\introarrayfinishhim.pdb
+D:\GB\cdiez\introarrayfinishhim\obj\Debug\net6.0\introarrayfinishhim.genruntimeconfig.cache
+D:\GB\cdiez\introarrayfinishhim\obj\Debug\net6.0\ref\introarrayfinishhim.dll
