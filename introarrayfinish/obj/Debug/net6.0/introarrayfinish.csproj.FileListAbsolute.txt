@@ -1,0 +1,15 @@
+D:\GB\cdiez\introarrayfinish\bin\Debug\net6.0\introarrayfinish.exe
+D:\GB\cdiez\introarrayfinish\bin\Debug\net6.0\introarrayfinish.deps.json
+D:\GB\cdiez\introarrayfinish\bin\Debug\net6.0\introarrayfinish.runtimeconfig.json
+D:\GB\cdiez\introarrayfinish\bin\Debug\net6.0\introarrayfinish.dll
+D:\GB\cdiez\introarrayfinish\bin\Debug\net6.0\introarrayfinish.pdb
+D:\GB\cdiez\introarrayfinish\obj\Debug\net6.0\introarrayfinish.csproj.AssemblyReference.cache
+D:\GB\cdiez\introarrayfinish\obj\Debug\net6.0\introarrayfinish.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\cdiez\introarrayfinish\obj\Debug\net6.0\introarrayfinish.AssemblyInfoInputs.cache
+D:\GB\cdiez\introarrayfinish\obj\Debug\net6.0\introarrayfinish.AssemblyInfo.cs
+D:\GB\cdiez\introarrayfinish\obj\Debug\net6.0\introarrayfinish.csproj.CoreCompileInputs.cache
+D:\GB\cdiez\introarrayfinish\obj\Debug\net6.0\introarrayfinish.dll
+D:\GB\cdiez\introarrayfinish\obj\Debug\net6.0\refint\introarrayfinish.dll
+D:\GB\cdiez\introarrayfinish\obj\Debug\net6.0\introarrayfinish.pdb
+D:\GB\cdiez\introarrayfinish\obj\Debug\net6.0\introarrayfinish.genruntimeconfig.cache
+D:\GB\cdiez\introarrayfinish\obj\Debug\net6.0\ref\introarrayfinish.dll
