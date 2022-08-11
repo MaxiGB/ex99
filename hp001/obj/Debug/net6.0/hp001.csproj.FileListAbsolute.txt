@@ -1,0 +1,15 @@
+D:\GB\cdiez\hp001\obj\Debug\net6.0\hp001.csproj.AssemblyReference.cache
+D:\GB\cdiez\hp001\obj\Debug\net6.0\hp001.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\cdiez\hp001\obj\Debug\net6.0\hp001.AssemblyInfoInputs.cache
+D:\GB\cdiez\hp001\obj\Debug\net6.0\hp001.AssemblyInfo.cs
+D:\GB\cdiez\hp001\obj\Debug\net6.0\hp001.csproj.CoreCompileInputs.cache
+D:\GB\cdiez\hp001\bin\Debug\net6.0\hp001.exe
+D:\GB\cdiez\hp001\bin\Debug\net6.0\hp001.deps.json
+D:\GB\cdiez\hp001\bin\Debug\net6.0\hp001.runtimeconfig.json
+D:\GB\cdiez\hp001\bin\Debug\net6.0\hp001.dll
+D:\GB\cdiez\hp001\bin\Debug\net6.0\hp001.pdb
+D:\GB\cdiez\hp001\obj\Debug\net6.0\hp001.dll
+D:\GB\cdiez\hp001\obj\Debug\net6.0\refint\hp001.dll
+D:\GB\cdiez\hp001\obj\Debug\net6.0\hp001.pdb
+D:\GB\cdiez\hp001\obj\Debug\net6.0\hp001.genruntimeconfig.cache
+D:\GB\cdiez\hp001\obj\Debug\net6.0\ref\hp001.dll
